@@ -38,6 +38,15 @@ dependencies:
   # Lottie animation support
   lottie: ^3.1.2
 
+  # HTTP networking (used by HttpUtility)
+  http: ^1.2.1
+
+  # State management for ViewModels
+  provider: ^6.1.2
+
+  # URL launcher for IMDB / Cathay Cineplexes (mirrors SFSafariViewController)
+  url_launcher: ^6.3.1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
